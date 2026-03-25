@@ -12,6 +12,7 @@ Browse the collection, pick a design you love, swap in your own content, and dep
 | [Live Demo](https://ethhandy.github.io/portfolio-zoo/retro-terminal/) | **retro-terminal** | Old PC / DOS Terminal | HTML / CSS / JS | — |
 | [Live Demo](https://ethhandy.github.io/portfolio-zoo/designer-folio/) | **designer-folio** | Minimal UX/UI Designer | HTML / CSS / JS | — |
 | [Live Demo](https://ethhandy.github.io/portfolio-zoo/purple-wave/) | **purple-wave** | Purple Gradient + Animations | HTML / CSS / JS | — |
+| [Live Demo](https://ethhandy.github.io/portfolio-zoo/bug-hunter/) | **bug-hunter** | QA Bug Tracker | HTML / CSS / JS | — |
 
 > Want yours here? [Contribute a portfolio!](#contributing)
 
